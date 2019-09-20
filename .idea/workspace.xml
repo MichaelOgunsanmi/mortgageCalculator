@@ -7,10 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa02808a-6ae5-4b56-be36-9e3a25df2c8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mortgageCalculator_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mortgageCalculator/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mortgageCalculator/MortgageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mortgageCalculator/MortgageReport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mortgageCalculator/com/mortgageCalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mortgageCalculator/com/mortgageCalculator/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mortgageCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mortgageCalculator/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +18,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,10 +34,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.28960818" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.mortgageCalculator.MortgageCalculator" />
+      <recent name="com.mortgageCalculator.MortgageReport" />
+      <recent name="com.mortgageCalculator.Console" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
